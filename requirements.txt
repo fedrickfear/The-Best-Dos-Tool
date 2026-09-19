@@ -1,0 +1,4 @@
+# The Best DoS Tool - Python Dependencies
+
+# HTTP/HTTPS requests
+requests>=2.31.0,<3.0.0
